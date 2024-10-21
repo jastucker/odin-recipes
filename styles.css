@@ -1,0 +1,43 @@
+body {
+    background-color: #ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#323432;
+}
+img {
+    width:60%;
+}
+#side-navigation h1{
+    color:#ffffff;
+    padding:20px;
+}
+#side-navigation {
+    margin:0;
+    padding:0;
+    width:200px;
+    height:100%;
+    position:fixed;/*keeps the side navigation from pushing the main content down*/
+    overflow-x:auto;
+    background-color:#323432;
+}
+#side-navigation ul {
+    list-style-type:none;
+}
+#side-navigation ul a {
+    display:block;
+    text-decoration:none;
+    line-height:4em;
+}
+#side-navigation a:hover {
+    color:#323432;
+    background-color:#ffffff;
+    padding-left:20px;
+    border-radius:40px 0 0 40px;
+}
+#side-navigation a:visited{
+    color:#c49102;
+}
+#recipe-card {
+    margin-left:200px;
+    padding:1px 16px;
+    height:1000px;
+}
