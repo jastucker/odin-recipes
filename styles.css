@@ -26,6 +26,7 @@ img {
     display:block;
     text-decoration:none;
     line-height:4em;
+    color:#ffffff;
 }
 #side-navigation a:hover {
     color:#323432;
@@ -33,7 +34,7 @@ img {
     padding-left:20px;
     border-radius:40px 0 0 40px;
 }
-#side-navigation a:visited{
+#side-navigation a:visited {
     color:#c49102;
 }
 #recipe-card {
