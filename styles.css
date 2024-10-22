@@ -37,6 +37,12 @@ img {
 #side-navigation a:visited {
     color:#c49102;
 }
+#side-navigation a:focus {
+    color:#323432;
+    background-color:#ffffff;
+    padding-left:20px;
+    border-radius:40px 0 0 40px;
+}
 #recipe-card {
     margin-left:200px;
     padding:1px 16px;
