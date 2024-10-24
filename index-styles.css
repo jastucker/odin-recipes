@@ -1,0 +1,21 @@
+#img-grid {
+    display:inline-block;
+    margin-left:35%;
+    min-width:70%;
+}
+img{
+    min-width:400px;
+    filter: drop-shadow(5px 5px 13px #323432);
+}
+p{
+    margin:-15px;
+    background-color:#c49102;
+    color:#ffffff;
+    position:relative;
+    width:200px;
+    padding:20px;
+    border-top-right-radius:25px;
+    border-bottom-right-radius:25px;
+    font-size:1.2em;
+    letter-spacing:.1em; 
+}
